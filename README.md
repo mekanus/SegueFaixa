@@ -5,6 +5,6 @@ Conteúdo referente ao Carro Robô segue faixa a Mekanus Robótica Educacional
 
 
 
-# O conteúdo do repositório é sempre relacionado ao tema do mesmo, podendo entretanto, não estar limitado a somente ao tema. 
+## O conteúdo do repositório é sempre relacionado ao tema do mesmo, podendo entretanto, não estar limitado a somente ao tema. 
 
-# O material aqui contido não deve ser utilizado com finalidade comercial.
+## O material aqui contido não deve ser utilizado com finalidade comercial.
