@@ -1,5 +1,5 @@
 # SegueFaixa
-Conteúdo referente ao Carro Robô segue faixa a Mekanus Robótica Educacional
+Conteúdo referente ao Carro Robô segue faixa da Mekanus Robótica Educacional
 
 ## Link do produto: http://www.lojamekanus.com.br/detalhes.asp?IdProduto=408547
 
